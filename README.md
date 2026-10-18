@@ -1,7 +1,7 @@
 # Olá, eu sou a Vitória Gabriely 👋
 
 Estudante de Desenvolvimento de Software Multiplataforma (DSM) na FATEC Jacareí – Professor Francisco de Moura  🚀
-Estou aprendendo HTML, CSS, JavaScript e dando meus primeiros passos na programação!
+ Estou aprendendo HTML, CSS, JavaScript e dando meus primeiros passos na programação!
 
 ## 💻 Linguagens e Tecnologias
 
